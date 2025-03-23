@@ -264,6 +264,22 @@
   text-transform: none;
   text-decoration: none;
 }
+
+.navbarLink-span {
+  background: none;
+  border: none;
+  color: var(--dl-color-scheme-dgblue);
+  cursor: pointer;
+  font-size: 16px;
+  font-family: Titillium Web;
+  font-weight: 600;
+  line-height: 1.5;
+  margin-right: var(--dl-layout-space-twounits);
+}
+
+.navbarLink-span:hover {
+  color: white;
+}
  
 .Content {
   font-size: 16px;
