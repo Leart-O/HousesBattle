@@ -290,7 +290,9 @@
   text-decoration: none;
 }
  
-
+.home-footer a:hover {
+  color: var(--dl-color-scheme-dgblue);
+}
  
 @media(max-width: 767px) {
   .navbar-burger-menu {
